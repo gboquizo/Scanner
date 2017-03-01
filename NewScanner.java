@@ -6,7 +6,7 @@ import java.util.Scanner;
  * 
  * Crea la clase TecladoScanner para la lectura de datos desde el teclado. Para
  * ello, crea la clase TestScannerConMenu que compruebe todas las lecturas. La
- * clase TecladoScanner d ispondrá de:
+ * clase TecladoScanner dispondrá de:
  * <ul>
  * <li>a. Una propiedad scanner para la lectura desde teclado (flujo
  * System.in)</li>
@@ -25,7 +25,7 @@ import java.util.Scanner;
  * </ul>
  * 
  * Clase NewScanner que es un envoltorio de la clase java.util.Scanner. Usa el
- * patrón de diseño singleton, que provee una única instancia global mediante un
+ * patrón de diseño Singleton, que provee una única instancia global mediante un
  * método de clase
  * 
  * @author Guillermo Boquizo Sánchez
@@ -36,7 +36,7 @@ public class NewScanner {
 	/**
 	 * Campos, privatizado el campo scanner, que refiere a un objeto de
 	 * java.util.Scanner. Estático el campo newScanner, referido al objeto
-	 * generado en la clase bajo patrón singleton
+	 * generado en la clase bajo patrón Singleton
 	 */
 	private Scanner scanner;
 	private static NewScanner newScanner;
