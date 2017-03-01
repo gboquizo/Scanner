@@ -1,8 +1,8 @@
 # Scanner
  * Crea la clase TecladoScanner para la lectura de datos desde el teclado. Para
  * ello, crea la clase TestScannerConMenu que compruebe todas las lecturas. La
- * clase TecladoScanner d ispondrá de:
- * <ul>
+ * clase TecladoScanner dispondrá de:
+ <ul>
  * <li>a. Una propiedad scanner para la lectura desde teclado (flujo
  * System.in)</li>
  * <li>b. Método leerEntero() que devuelva un entero válido introducido por el
