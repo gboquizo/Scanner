@@ -1,5 +1,4 @@
 # Scanner
- * 
  * Crea la clase TecladoScanner para la lectura de datos desde el teclado. Para
  * ello, crea la clase TestScannerConMenu que compruebe todas las lecturas. La
  * clase TecladoScanner d ispondrá de:
@@ -19,8 +18,6 @@
  * <li>g. ¿Puede utilizarse el patrón de diseño Singleton? Si es así,
  * úsalo.</li>
  * </ul>
- * 
- * 
  * @author Guillermo Boquizo Sánchez
  * @version 1.0
- */
+ 
