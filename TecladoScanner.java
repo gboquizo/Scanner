@@ -7,7 +7,7 @@ import java.util.NoSuchElementException;
  * 
  * Crea la clase TecladoScanner para la lectura de datos desde el teclado. Para
  * ello, crea la clase TestScannerConMenu que compruebe todas las lecturas. La
- * clase TecladoScanner d ispondrá de:
+ * clase TecladoScanner dispondrá de:
  * <ul>
  * <li>a. Una propiedad scanner para la lectura desde teclado (flujo
  * System.in)</li>
@@ -26,7 +26,7 @@ import java.util.NoSuchElementException;
  * </ul>
  * 
  * Clase TecladoScanner, envoltorio de la clase NewScanner, siguiendo el patrón
- * de diseño singleton
+ * de diseño Singleton
  * 
  * @author Guillermo Boquizo Sánchez
  * @version 1.0
