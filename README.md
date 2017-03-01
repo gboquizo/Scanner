@@ -1,5 +1,4 @@
 # Scanner
-/**
  * 
  * Crea la clase TecladoScanner para la lectura de datos desde el teclado. Para
  * ello, crea la clase TestScannerConMenu que compruebe todas las lecturas. La
